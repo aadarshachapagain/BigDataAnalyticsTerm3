@@ -1,0 +1,30 @@
+<?php
+mb_internal_encoding("UTF-8");
+ini_set("display_errors", "1");
+ error_reporting(E_ALL);
+ require 'C:/wamp64/apps/phpmyadmin4.9.7/vendor/autoload.php'; 
+ if($_SERVER['REQUEST_METHOD'] == "POST")
+{
+$servername = "mysqldbinstancce.cbcaucqj2wac.us-east-1.rds.amazonaws.com";
+$username = "admin";
+$password = "admin123";
+$dbname = "pedramdb";
+$usertable= "sample";
+$fname = $_POST['firstname'];
+$lname=$_POST['lastname'];
+// Create connection
+$conn=mysqli_connect($servername,$username, $password) OR DIE ('Unable to connect 
+to database! Please try again later.');
+echo "<p>Connected to MySQL!</p>";
+mysqli_select_db($conn,$dbname);
+echo "<p>Connected to DB!</p>";
+// Check connection
+$sql = "INSERT INTO ".$usertable." values('".$fname."','".$lname."');"; 
+if ($conn->query($sql) === TRUE) {
+ echo "New record created successfully";
+} else {
+ echo "Error: " . $sql . "<br>" . $conn->error;
+}
+$conn->close();
+}
+?>

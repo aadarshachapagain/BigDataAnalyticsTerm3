@@ -1,0 +1,91 @@
+Week 1
+Amazon Kinesis Introduction
+https://www.youtube.com/watch?v=07iZOEl0knc
+Amazon Kinesis Producers  
+https://www.youtube.com/watch?v=9WFCQ9xBGVY
+Amazon Kinesis Consumers  
+https://www.youtube.com/watch?v=SxHF2no46QA
+AWS - Kinesis Data Stream
+https://www.youtube.com/watch?v=ZErwfH-OLk4
+ 
+Week 2
+Direct Connect
+https://www.youtube.com/watch?v=DXFooR95BYc
+Introduction to the AWS Snowball 
+https://www.youtube.com/watch?v=9uc2DSZ1wL8&list=RDQMJQVP1duSxaA&start_radio=1
+AWS Snowball Edge 
+https://www.youtube.com/watch?v=a2pugcIZJ4k
+AWS Database Migration Service (DMS)
+https://www.youtube.com/watch?v=zb4GcjEdl8U
+Top 10 Data Migration Best Practices - AWS Online Tech Talks
+https://www.youtube.com/watch?v=i0-pSHQJ7pA
+Building a Data Pipeline on AWS
+https://www.youtube.com/watch?v=1nhy4kMwo8E
+AWS Lambda 
+https://www.youtube.com/watch?v=seaBeltaKhw
+AWS CloudFront
+https://www.youtube.com/watch?v=Vr4N_ZA-uGo
+AWS API Gateway
+https://www.youtube.com/watch?v=qnVfWG8N7Fw
+ 
+Week 3
+Direct Connect
+https://www.youtube.com/watch?v=DXFooR95BYc
+Introduction to the AWS Snowball 
+https://www.youtube.com/watch?v=9uc2DSZ1wL8&list=RDQMJQVP1duSxaA&start_radio=1
+AWS Snowball Edge 
+https://www.youtube.com/watch?v=a2pugcIZJ4k
+AWS Database Migration Service (DMS)
+https://www.youtube.com/watch?v=zb4GcjEdl8U
+Top 10 Data Migration Best Practices - AWS Online Tech Talks
+https://www.youtube.com/watch?v=i0-pSHQJ7pA
+Building a Data Pipeline on AWS
+https://www.youtube.com/watch?v=1nhy4kMwo8E
+AWS Lambda 
+https://www.youtube.com/watch?v=seaBeltaKhw
+AWS CloudFront
+https://www.youtube.com/watch?v=Vr4N_ZA-uGo
+AWS API Gateway
+https://www.youtube.com/watch?v=qnVfWG8N7Fw
+ 
+Week 4
+AWS EMR Tutorial
+https://www.youtube.com/watch?v=v9nk6mVxJDU
+1. AWS EMR - Cluster Architecture Diagram and Details
+https://www.youtube.com/watch?v=7BSAbzwU6Ac
+2. AWS EMR - Storage Architecture Diagram and Details
+https://www.youtube.com/watch?v=_BfpoplsfgY
+3. AWS EMR - Integration Architecture Diagram and Details
+https://www.youtube.com/watch?v=N03S_tNbOuI
+4. AWS EMR - Use Cases and Pricing
+https://www.youtube.com/watch?v=T0Nbqv62mHQ
+5. AWS EMR - Setup and Install Hive JDBC Driver
+https://www.youtube.com/watch?v=SVk5iMAosaM
+6. AWS EMR - Create cluster using Quick Create Options
+https://www.youtube.com/watch?v=tr6hkjzojfI
+7. AWS EMR - Clone an EMR cluster
+https://www.youtube.com/watch?v=PLSdUsuQd_A
+Running Fast, Interactive Queries on Petabyte Datasets using Presto
+https://www.youtube.com/watch?v=EO6KgpAOea4
+Hadoop on AWS using EMR Tutorial || S3 || Athena || Glue || QuickSight
+https://www.youtube.com/watch?v=ARzFq7DJpVQ
+Running Hive and Spark jobs on Amazon EMR Server less
+https://www.youtube.com/watch?v=t4W3ia4rsYs
+
+Week 5
+Amazon Redshift Tutorial | AWS Tutorial for Beginners 
+https://www.youtube.com/watch?v=fc5WPKnbam8
+
+Getting Started with Amazon Redshift
+https://www.youtube.com/watch?v=dfo4J5ZhlKI
+
+Amazon Redshift Tutorial | Amazon Redshift Architecture 
+https://www.youtube.com/watch?v=7bfOllAyxlg
+
+Amazon Redshift Tutorial | AWS Redshift Training | Intellipaat
+https://www.youtube.com/watch?v=CyMA7bJdVfI
+
+Amazon Redshift Tutorial | AWS Redshift Training | Amazon Redshift Data Warehouse | Intellipaat
+https://www.youtube.com/watch?v=ojE4RUYZl1E
+ 
+ 

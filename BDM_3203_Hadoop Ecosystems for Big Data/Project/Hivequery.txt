@@ -1,0 +1,3 @@
+select * from posts where creationdate ='2008-07-31T21:42:52.667'
+
+;

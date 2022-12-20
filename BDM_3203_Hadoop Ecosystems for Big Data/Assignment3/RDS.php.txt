@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+.a{
+ background-color: #2471A3;
+ color: white;
+ padding: 12px 20px;
+ border: none;
+ border-radius: 4px;
+ cursor: pointer;
+ float: center;
+}
+.bg { 
+ /* The image used */
+ background-image: url("bg.jpg");
+ /* Full height */
+ height: 100%; 
+ /* Center and scale the image nicely */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.label {
+ color: white;
+ padding: 8px;
+ font-family: Arial;
+}
+ </style>
+</head>
+<body class="bg" style="padding: 210px 0; background-color: #dbfcf9;" >
+<center>
+<form action="action.php" method="post" enctype="multipart/form-data">
+First name:<br>
+ <input type="text" name="firstname">
+ <br>
+ Last name:<br>
+ <input type="text" name="lastname">
+ <input type="submit" value="Submit">
+</form>
+</center>
+</body>
+</html>
